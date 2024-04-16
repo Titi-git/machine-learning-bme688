@@ -8,4 +8,5 @@ More explanations on how to use the files here: https://docs.google.com/document
 ### This repository is structured as follow:
 
 **src**: contains all sources files of the different steps of the project
+
 **lib**: contains the zip files of the libraries I used at the time I made this project.
